@@ -13,5 +13,5 @@ Things you may want to cover:
 
 * How to run the test suite
 
-Click WiKi for a more detailed project description
+Click Wiki for a more detailed project description
   
